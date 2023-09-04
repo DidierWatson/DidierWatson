@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
 📚 I'm a Electronic Engineering Student @ FIUBA. And a Back-End Developer Student.</br>
