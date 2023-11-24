@@ -1,14 +1,13 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
 📚 I'm a Electronic Engineering Student @ FIUBA. And a Back-End Developer Student.</br>
-💡 I'm currently learning Springboot</br>
+💡 I'm currently learning Golang</br>
 <!-- 🔍 Intrested in Big Data and ML. -->
 
 <h3 align="left">Knowledge and Tools:</h3>
 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![SpringBoot](https://img.shields.io/badge/-springboot-%4BC52F?style=for-the-badge&logo=springboot&logoColor=white)
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
  ![<Html>](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
